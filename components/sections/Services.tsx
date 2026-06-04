@@ -70,7 +70,7 @@ export default function Services() {
             <div style={{ fontSize: "18px", fontFamily: "'Playfair Display', serif", fontWeight: 600, color: "#fff", marginBottom: "4px" }}>{tx.cta_h}</div>
             <div style={{ fontSize: "13px", color: "rgba(255,255,255,0.55)" }}>{tx.cta_sub}</div>
           </div>
-          <WAButtonOutline label={tx.cta_btn} />
+          <WAButtonOutline label={tx.cta_btn} dark />
         </div>
       </div>
       <style>{`@media (max-width: 768px) { .svc-grid { grid-template-columns: 1fr !important; } }`}</style>

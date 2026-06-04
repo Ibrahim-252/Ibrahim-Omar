@@ -51,8 +51,8 @@ const PROJECTS = [
     highlights: ["Premium design system for high-end positioning", "Calendly booking integration", "Client management portal"],
     stack: ["React", "Vite", "Tailwind CSS", "Framer Motion"],
     status: "building" as const,
-    link: null,
-    github: "https://github.com/Ibrahim-252/prime-form",
+    link: "https://prime-form-ruby.vercel.app/",
+    github: null,
   },
 ];
 

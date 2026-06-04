@@ -6,7 +6,7 @@ export const t = {
     hero_h1_1: "Digital systems that",
     hero_h1_2: "move organizations",
     hero_h1_3: "forward.",
-    hero_sub: "I build the websites, platforms, and digital infrastructure that governments, universities, and businesses rely on.",
+    hero_sub: "I help organizations modernize, communicate, and scale through thoughtfully engineered digital systems.",
     hero_cta1: "View My Work",
     hero_cta2: "WhatsApp Me",
     hero_available: "Available for new projects",
